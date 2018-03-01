@@ -8,4 +8,4 @@ featurName - name odf the investigated feature
 
 count - how many measurements were performed for the specific subject, activity and measured features
 
-average - the calculated average 
+average - the calculated average [s]
