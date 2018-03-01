@@ -1,6 +1,6 @@
 ## Codebook for the tidy data set of 3rd programming assignment 
 
-subject - participant indicated by a number
+subject - participant indicated by a number \newline
 ActivityName - activity which was investigated
 featurName - name odf the investigated feature
 count - how many measurements were performed for the specific subject, activity and measured features
